@@ -43,3 +43,16 @@
 		border:2px solid black;
 		text-align: center;
 	}
+
+	
+	img {
+		overflow:hidden;
+		-webkit-border-radius:20%;
+		-moz-border-radius:20%;
+		border-radius:50%;
+		width:50%;
+		height:10%;
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+	}
