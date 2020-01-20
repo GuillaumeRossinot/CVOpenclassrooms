@@ -3,7 +3,7 @@
 	
 	/* Set gray background color and 100% height */
 	.sidenav {
-		background-color: yellow;
+		background-color: #3fbac4;
 		height: 100%;
 	}
 	
@@ -21,7 +21,7 @@
 		border:2px solid black;
 		text-align: center;
 		background-color: black;
-		color: yellow;
+		color: #3fbac4;
 	}
 
 	.photo{
