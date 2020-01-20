@@ -68,3 +68,11 @@
 	.col-sm-12 i{
 		color: #3fbac4;
 	}
+
+	.gauche-img img {
+		text-align: center;
+		width:20%;
+		float: left;
+		margin: 20px;
+	}
+
