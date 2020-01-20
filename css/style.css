@@ -18,7 +18,7 @@
 	}
 
 	.titre-gauche{
-		border:2px solid black;
+		/*border:2px solid black;*/
 		text-align: center;
 		background-color: black;
 		color: #3fbac4;
@@ -30,17 +30,19 @@
 
 
 	   .titre-content{
-		border:2px solid black;
+		/*border:2px solid black;*/
 		text-align: center;
+		border-bottom: 5px solid #3fbac4;
+		
 	}
 
 		 .date-content{
-		border:2px solid black;
+		/*border:2px solid black;*/
 		text-align: center;
 	}
 
 		 .text-content{
-		border:2px solid black;
+		/*border:2px solid black;*/
 		text-align: center;
 	}
 
@@ -61,4 +63,8 @@
 		text-decoration: underline;
 		color: black;
 		text-decoration-color: #3fbac4;
+	}
+
+	.col-sm-12 i{
+		color: #3fbac4;
 	}
